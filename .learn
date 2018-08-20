@@ -1,1 +1,9 @@
-tags: /n- jupyter /n- python /nlanguages: python /njupyter_notebook: true /nresources: 0tags: /n- jupyter /n- python /nlanguages: python /njupyter_notebook: true /nresources: 0
+tags:
+  - jupyter
+  - python
+
+languages: python
+
+jupyter_notebook: true
+
+resources: 0
